@@ -1,0 +1,13 @@
+here to learn unstaging
+
+for unstaging from last commit we should use
+git reset --soft HEAD~1
+
+for unstaging from last add <filename> we should use
+
+git restore --staged NewFile.txt
+
+git rm --cached NewFile.txt
+
+
+created a new branch- Feature branch and pushed it to github
